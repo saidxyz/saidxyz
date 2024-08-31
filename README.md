@@ -16,14 +16,20 @@ I am a **computer engineering student** specializing in **web and mobile applica
 - 👨‍💻 &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
 - 📫 &nbsp; Email me at [said_nasser96@hotmail.com](mailto:said_nasser96@hotmail.com)
 
+---
+
 ### 🛠 Tech Stack
 
 `Python` | `C#` | `Java` | `Kotlin` | `JavaScript` | `ASP.NET Core` | `Node.js`| `MySQL` |`Flask` | `VS Code` | `Three.js,` | `WebGL` | `Xcode` | `xUnit` | `CSRF/XSRF` | `Git` | `GitHub`
+
+---
 
 ### 📊 Stats
 
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
 [![](https://img.shields.io/github/followers/saidxyz?label=GitHub%20Followers)](https://github.com/saidxyz)
+
+---
 
 ### 🤝🏻 Connect Me
 
