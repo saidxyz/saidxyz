@@ -2,9 +2,12 @@
 
 ## This is Said Nasser
 
-I am an experienced **product engineer** with a proven track record in developing cross-platform applications using **React/React Native**.
-Skilled in leading a **dynamic team, implementing agile methodologies to consistently deliver top-notch applications** for growing businesses.
-Proficient in **React, React Native, JavaScript, SQL/NoSQL Databases**, and various relevant domains, with a demonstrated history of producing high-quality results.
+---
+
+I am a **computer engineering student** specializing in **web and mobile application development** with a strong focus on **cloud services**. Passionate about **building secure, scalable applications**, I enjoy working with cross-functional teams to bring projects to life. Proficient in **ASP.NET Core, Python, JavaScript**, and **SQL databases**, I have hands-on experience with **agile methodologies** and a solid foundation in developing high-quality solutions.
+
+---
+
 
 ### 👨🏻‍💻 About Me
 
