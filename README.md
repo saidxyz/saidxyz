@@ -20,8 +20,8 @@ Proficient in **React, React Native, JavaScript, SQL/NoSQL Databases**, and vari
 
 ### 📊 Stats
 
-[![](https://komarev.com/ghpvc/?username=jaamaalxyz&color=blue&label=Profile%20Views)](https://github.com/jaamaalxyz/jaamaalxyz)
-[![](https://img.shields.io/github/followers/jaamaalxyz?label=GitHub%20Followers)](https://github.com/jaamaalxyz)
+[![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
+[![](https://img.shields.io/github/followers/saidxyz?label=GitHub%20Followers)](https://github.com/saidxyz)
 
 ### 🤝🏻 Connect Me
 
