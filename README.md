@@ -37,7 +37,7 @@ I am a **computer engineering student** specializing in **web and mobile applica
 ### 🤝🏻 Connect Me
 
 <p>
-<a href="https://www.linkedin.com/in/said-nasser/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>  
-<a href="mailto:said_nasser96@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-said_nasser96@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/said-nasser/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>  
+<a href="mailto:said_nasser96@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-said_nasser96@hotmail.com-purple?style=flat-square&logo=gmail"></a>
 <a href="https://github.com/saidxyz"><img alt="github" src="https://img.shields.io/badge/github.com-black?style=flat-square&logo=github"></a>
 </p>
