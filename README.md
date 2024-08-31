@@ -10,12 +10,12 @@ I am a **computer engineering student** specializing in **web and mobile applica
 
 ### 👨🏻‍💻 About Me
 
-- 🧑‍💻 &nbsp; Actively seeking an internship opportunity to apply and expand my skills.
+- 🚀  &nbsp; Actively seeking an internship opportunity to apply and expand my skills.
 - 🎓 &nbsp; Currently in the final year of my Bachelor’s degree in Computer Engineering.
 - 🌐 &nbsp; Enhancing my expertise in web application development with technologies like ASP.NET Core.
 - 📱 &nbsp; Expanding my proficiency in mobile application development using Kotlin.
-- 🤝 &nbsp; Let’s connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
-- - 📧 &nbsp; eel free to reach out via email: [Portfolio](https://saidxyz.github.io/)
+- 💼  &nbsp; Let’s connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
+- 📁  &nbsp; eel free to reach out via email: [Portfolio](https://saidxyz.github.io/)
 - 📧 &nbsp; eel free to reach out via email: [said_nasser96@hotmail.com](mailto:said_nasser96@hotmail.com)
 
 
