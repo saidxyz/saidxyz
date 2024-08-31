@@ -16,7 +16,7 @@ Proficient in **React, React Native, JavaScript, SQL/NoSQL Databases**, and vari
 
 ### 🛠 Tech Stack
 
-`C#` | `Java` | `Kotlin` | `JavaScript` | `ASP.NET Core` | `Node.js`| `MySQL` |`Flask` | `VS Code` | `Three.js,` | `WebGL` | `Xcode` | `xUnit` | `CSRF/XSRF` | `Git` | `GitHub`
+`Python`|`C#` | `Java` | `Kotlin` | `JavaScript` | `ASP.NET Core` | `Node.js`| `MySQL` |`Flask` | `VS Code` | `Three.js,` | `WebGL` | `Xcode` | `xUnit` | `CSRF/XSRF` | `Git` | `GitHub`
 
 ### 📊 Stats
 
