@@ -15,7 +15,7 @@ I am a **computer engineering student** specializing in **web and mobile applica
 - 🌐 &nbsp; Enhancing my expertise in web application development with technologies like ASP.NET Core.
 - 📱 &nbsp; Expanding my proficiency in mobile application development using Kotlin.
 - 💼  &nbsp; Let’s connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
-- 📁  &nbsp; Check out my [Portfolio](https://saidxyz.github.io/)
+# - 📁  &nbsp; Check out my [Portfolio](https://saidxyz.github.io/)
 - 📧 &nbsp; Feel free to reach out via email: [said_nasser96@hotmail.com](mailto:said_nasser96@hotmail.com)
 
 
