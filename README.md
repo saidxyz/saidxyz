@@ -1,6 +1,5 @@
 #### Hey there! 🙂
 
-### 👨🏻‍💻 About Me
 - 💼  &nbsp; Let’s connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
 - 📧 &nbsp; Feel free to reach out via email: [said_nasser96@hotmail.com](mailto:said_nasser96@hotmail.com)
 
