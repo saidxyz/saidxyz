@@ -1,7 +1,5 @@
 #### Hey there! 🙂
 
-- 💼  &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
-
 ### 📊 Stats
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
 [![](https://img.shields.io/github/followers/saidxyz?label=GitHub%20Followers)](https://github.com/saidxyz)
