@@ -1,13 +1,5 @@
 #### Hey there! 🙂
 
-## This is Said Nasser 👋
-
----
-
-I am a **computer engineering student** specializing in **web and mobile application development** with a strong focus on **cloud services**. Passionate about **building secure, scalable applications**, I enjoy working with cross-functional teams to bring projects to life. Proficient in **ASP.NET Core, Python, JavaScript**, and **SQL databases**, I have hands-on experience with **agile methodologies** and a solid foundation in developing high-quality solutions.
-
----
-
 ### 👨🏻‍💻 About Me
 
 - 🚀  &nbsp; Actively seeking an internship opportunity to apply and expand my skills.
@@ -18,14 +10,6 @@ I am a **computer engineering student** specializing in **web and mobile applica
 # - 📁  &nbsp; Check out my [Portfolio](https://saidxyz.github.io/)
 - 📧 &nbsp; Feel free to reach out via email: [said_nasser96@hotmail.com](mailto:said_nasser96@hotmail.com)
 
-
----
-
-### 🛠 Tech Stack
-
-`Python` | `C#` | `Java` | `Kotlin` | `JavaScript` | `ASP.NET Core` | `Node.js`| `MySQL` |`Flask` | `VS Code` | `Three.js,` | `WebGL` | `Xcode` | `xUnit` | `CSRF/XSRF` | `Git` | `GitHub`
-
----
 
 ### 📊 Stats
 
