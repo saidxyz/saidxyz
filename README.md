@@ -8,7 +8,7 @@
 #### Contact 🤝🏻
 <p>
 <a href="https://www.linkedin.com/in/said-nasser/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>  
-<a href="mailto:said_nasser96@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-said_nasser96@hotmail.com-purple?style=flat-square&logo=outlook"></a>
-<a href="mailto:ssa171@uit.no"><img alt="Email" src="https://img.shields.io/badge/Email-ssa171@uit.no-blue?style=flat-square&logo=microsoft"></a>
+<a href="mailto:said_nasser96@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-said_nasser96@hotmail.com-yellow?style=flat-square&logo=outlook"></a>
+<a href="mailto:ssa171@uit.no"><img alt="Email" src="https://img.shields.io/badge/Email-ssa171@uit.no-green?style=flat-square&logo=microsoft"></a>
 <a href="tel:+4798810196"><img alt="Phone" src="https://img.shields.io/badge/Phone-%2B47%2098810196-white?style=flat-square&logo=phone"></a>
 </p>
