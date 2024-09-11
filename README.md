@@ -1,6 +1,6 @@
 #### Hey there! 🙂
 
-- 💼  &nbsp; Let’s connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
+- 💼  &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
 
 ### 📊 Stats
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
