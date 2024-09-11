@@ -1,12 +1,13 @@
-#### Hey there! 🙂
-
+## Hey there! I'm Said 🙂
+#### Cloud and DevOps Enthusiast | Computer engineering Student
 ### 📊 Stats
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
 [![](https://img.shields.io/github/followers/saidxyz?label=GitHub%20Followers)](https://github.com/saidxyz)
 
 ---
-
-### 🤝🏻 Connect Me
+#### Contact 🤝🏻
+📧 ssa171@uit.no | said_nasser96@hotmail.com <br>
+📞 +47 98810196
 
 <p>
 <a href="https://www.linkedin.com/in/said-nasser/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>  
