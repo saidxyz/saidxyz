@@ -1,18 +1,11 @@
 #### Hey there! 🙂
 
 ### 👨🏻‍💻 About Me
-
-- 🚀  &nbsp; Actively seeking an internship opportunity to apply and expand my skills.
-- 🎓 &nbsp; Currently in the final year of my Bachelor’s degree in Computer Engineering.
-- 🌐 &nbsp; Enhancing my expertise in web application development with technologies like ASP.NET Core.
-- 📱 &nbsp; Expanding my proficiency in mobile application development using Kotlin.
 - 💼  &nbsp; Let’s connect on [LinkedIn](https://www.linkedin.com/in/said-nasser/)
 # - 📁  &nbsp; Check out my [Portfolio](https://saidxyz.github.io/)
 - 📧 &nbsp; Feel free to reach out via email: [said_nasser96@hotmail.com](mailto:said_nasser96@hotmail.com)
 
-
 ### 📊 Stats
-
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
 [![](https://img.shields.io/github/followers/saidxyz?label=GitHub%20Followers)](https://github.com/saidxyz)
 
