@@ -1,4 +1,4 @@
-## Hey there! I'm Said 🙂
+## Hey there! 🙂
 #### Cloud and DevOps Enthusiast | Computer engineering Student
 ### 📊 Stats
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
