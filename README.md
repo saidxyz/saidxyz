@@ -1,5 +1,5 @@
 ## Hey there! 🙂
-#### Cloud and DevOps Enthusiast | Computer engineering Student
+#### Computer engineering Student
 ### 📊 Stats
 [![](https://komarev.com/ghpvc/?username=saidxyz&color=blue&label=Profile%20Views)](https://github.com/saidxyz/saidxyz/)
 [![](https://img.shields.io/github/followers/saidxyz?label=GitHub%20Followers)](https://github.com/saidxyz)
